@@ -1,0 +1,240 @@
+doenca_cid;faixa_etaria;internacoes;media_permanencia;tx_mortalidade;media_perm_macro;tx_mort_macro;melhor_hospital;tx_mort_melhor_hosp
+Algumas afec originadas no período perinatal;1 a 4 anos;102.0;4.5;1.96;4.05;0.4775;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;10 a 14 anos;40.0;2.7;0.0;3.275;0.47;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;15 a 19 anos;108.0;2.6;0.0;3.05;0.47250000000000003;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;20 a 29 anos;396.0;3.0;0.25;3.25;0.5225;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;30 a 39 anos;451.0;3.2;0.0;3.6999999999999997;1.095;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;40 a 49 anos;729.0;2.8;0.82;4.575;2.525;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;5 a 9 anos;52.0;4.0;0.0;3.125;0.4675;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;50 a 59 anos;683.0;3.1;1.17;5.175;4.245;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;60 a 69 anos;627.0;3.3;2.39;5.425;6.38;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;70 a 79 anos;425.0;3.0;0.94;5.95;9.8575;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;80 anos e mais;179.0;3.2;1.12;6.5;15.62;HOSPITAL BARAO DE LUCENA;1.06
+Algumas afec originadas no período perinatal;Menor 1 ano;22270.0;6.6;1.91;5.4;1.7675;HOSPITAL BARAO DE LUCENA;1.06
+Algumas doenças infecciosas e parasitárias;1 a 4 anos;2897.0;6.0;1.28;4.05;0.4775;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;10 a 14 anos;1310.0;6.3;1.68;3.275;0.47;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;15 a 19 anos;1027.0;6.9;3.41;3.05;0.47250000000000003;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;20 a 29 anos;2948.0;9.0;5.22;3.25;0.5225;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;30 a 39 anos;3511.0;9.6;8.09;3.6999999999999997;1.095;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;40 a 49 anos;4711.0;9.9;11.02;4.575;2.525;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;5 a 9 anos;1851.0;5.9;1.03;3.125;0.4675;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;50 a 59 anos;5553.0;10.2;17.05;5.175;4.245;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;60 a 69 anos;6412.0;10.1;23.24;5.425;6.38;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;70 a 79 anos;5899.0;9.9;31.04;5.95;9.8575;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;80 anos e mais;4715.0;8.4;40.49;6.5;15.62;HOSPITAL BARAO DE LUCENA;9.97
+Algumas doenças infecciosas e parasitárias;Menor 1 ano;4084.0;9.7;3.18;5.4;1.7675;HOSPITAL BARAO DE LUCENA;9.97
+Contatos com serviços de saúde;1 a 4 anos;468.0;1.1;0.0;4.05;0.4775;IMIP;0.21
+Contatos com serviços de saúde;10 a 14 anos;522.0;1.2;0.38;3.275;0.47;IMIP;0.21
+Contatos com serviços de saúde;15 a 19 anos;680.0;1.8;0.15;3.05;0.47250000000000003;IMIP;0.21
+Contatos com serviços de saúde;20 a 29 anos;7318.0;1.8;0.03;3.25;0.5225;IMIP;0.21
+Contatos com serviços de saúde;30 a 39 anos;8727.0;1.6;0.06;3.6999999999999997;1.095;IMIP;0.21
+Contatos com serviços de saúde;40 a 49 anos;3872.0;1.3;0.28;4.575;2.525;IMIP;0.21
+Contatos com serviços de saúde;5 a 9 anos;618.0;0.8;0.0;3.125;0.4675;IMIP;0.21
+Contatos com serviços de saúde;50 a 59 anos;2019.0;1.3;0.45;5.175;4.245;IMIP;0.21
+Contatos com serviços de saúde;60 a 69 anos;1992.0;1.3;0.75;5.425;6.38;IMIP;0.21
+Contatos com serviços de saúde;70 a 79 anos;1256.0;1.6;1.27;5.95;9.8575;IMIP;0.21
+Contatos com serviços de saúde;80 anos e mais;452.0;2.6;3.98;6.5;15.62;IMIP;0.21
+Contatos com serviços de saúde;Menor 1 ano;1485.0;1.4;0.07;5.4;1.7675;IMIP;0.21
+Doenças da pele e do tecido subcutâneo;1 a 4 anos;905.0;4.8;0.0;4.05;0.4775;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;10 a 14 anos;792.0;3.9;0.0;3.275;0.47;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;15 a 19 anos;698.0;3.0;0.0;3.05;0.47250000000000003;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;20 a 29 anos;1816.0;3.4;0.22;3.25;0.5225;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;30 a 39 anos;2525.0;3.2;0.2;3.6999999999999997;1.095;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;40 a 49 anos;4139.0;3.1;0.36;4.575;2.525;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;5 a 9 anos;806.0;4.3;0.0;3.125;0.4675;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;50 a 59 anos;5939.0;3.4;0.42;5.175;4.245;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;60 a 69 anos;6187.0;3.5;0.99;5.425;6.38;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;70 a 79 anos;4249.0;4.2;2.47;5.95;9.8575;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;80 anos e mais;2142.0;5.1;5.98;6.5;15.62;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças da pele e do tecido subcutâneo;Menor 1 ano;326.0;4.8;0.61;5.4;1.7675;US 111 HOSPITAL EDUARDO CAMPOS DA PESSOA IDOSA DO RECIFE;0.37
+Doenças do aparelho circulatório;1 a 4 anos;345.0;6.4;2.32;4.05;0.4775;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;10 a 14 anos;238.0;6.7;1.26;3.275;0.47;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;15 a 19 anos;559.0;6.2;1.07;3.05;0.47250000000000003;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;20 a 29 anos;2027.0;5.8;1.92;3.25;0.5225;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;30 a 39 anos;3444.0;6.1;3.48;3.6999999999999997;1.095;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;40 a 49 anos;6757.0;6.6;4.71;4.575;2.525;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;5 a 9 anos;261.0;5.6;1.15;3.125;0.4675;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;50 a 59 anos;12243.0;7.3;5.59;5.175;4.245;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;60 a 69 anos;16383.0;7.6;7.48;5.425;6.38;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;70 a 79 anos;14652.0;7.8;10.05;5.95;9.8575;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;80 anos e mais;9199.0;7.3;14.86;6.5;15.62;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho circulatório;Menor 1 ano;341.0;9.7;4.11;5.4;1.7675;HOSPITAL DA RESTAURACAO;15.22
+Doenças do aparelho digestivo;1 a 4 anos;1901.0;2.5;0.37;4.05;0.4775;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;10 a 14 anos;2249.0;2.9;0.22;3.275;0.47;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;15 a 19 anos;2091.0;2.5;0.33;3.05;0.47250000000000003;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;20 a 29 anos;6804.0;2.6;0.46;3.25;0.5225;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;30 a 39 anos;9496.0;2.8;1.06;3.6999999999999997;1.095;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;40 a 49 anos;11115.0;3.1;1.84;4.575;2.525;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;5 a 9 anos;2754.0;2.5;0.04;3.125;0.4675;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;50 a 59 anos;11560.0;3.4;2.71;5.175;4.245;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;60 a 69 anos;9977.0;3.7;4.62;5.425;6.38;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;70 a 79 anos;5943.0;4.7;7.62;5.95;9.8575;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;80 anos e mais;2570.0;5.8;17.51;6.5;15.62;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho digestivo;Menor 1 ano;689.0;5.3;3.77;5.4;1.7675;HOSPITAL OTAVIO DE FREITAS;6.3
+Doenças do aparelho geniturinário;1 a 4 anos;1659.0;3.4;0.18;4.05;0.4775;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;10 a 14 anos;1443.0;2.8;0.28;3.275;0.47;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;15 a 19 anos;1748.0;3.3;0.11;3.05;0.47250000000000003;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;20 a 29 anos;4552.0;3.6;0.42;3.25;0.5225;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;30 a 39 anos;5609.0;3.8;0.71;3.6999999999999997;1.095;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;40 a 49 anos;6817.0;4.3;1.23;4.575;2.525;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;5 a 9 anos;1912.0;2.4;0.21;3.125;0.4675;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;50 a 59 anos;6439.0;5.6;2.76;5.175;4.245;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;60 a 69 anos;6873.0;6.4;4.07;5.425;6.38;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;70 a 79 anos;6424.0;6.8;7.3;5.95;9.8575;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;80 anos e mais;5240.0;7.0;10.8;6.5;15.62;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho geniturinário;Menor 1 ano;553.0;5.5;0.36;5.4;1.7675;HOSPITAL OTAVIO DE FREITAS;2.41
+Doenças do aparelho respiratório;1 a 4 anos;10411.0;4.7;0.28;4.05;0.4775;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;10 a 14 anos;2120.0;4.3;0.66;3.275;0.47;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;15 a 19 anos;864.0;5.6;2.55;3.05;0.47250000000000003;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;20 a 29 anos;1894.0;6.7;4.07;3.25;0.5225;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;30 a 39 anos;1982.0;7.3;5.55;3.6999999999999997;1.095;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;40 a 49 anos;2878.0;8.1;7.02;4.575;2.525;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;5 a 9 anos;5146.0;4.0;0.39;3.125;0.4675;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;50 a 59 anos;4070.0;8.5;9.78;5.175;4.245;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;60 a 69 anos;6107.0;8.8;12.4;5.425;6.38;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;70 a 79 anos;7866.0;8.3;15.87;5.95;9.8575;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;80 anos e mais;10117.0;7.7;19.85;6.5;15.62;HOSPITAL MARIA LUCINDA;3.98
+Doenças do aparelho respiratório;Menor 1 ano;9827.0;5.6;1.02;5.4;1.7675;HOSPITAL MARIA LUCINDA;3.98
+Doenças do olho e anexos;1 a 4 anos;58.0;0.6;0.0;4.05;0.4775;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;10 a 14 anos;135.0;0.3;0.0;3.275;0.47;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;15 a 19 anos;177.0;0.2;0.0;3.05;0.47250000000000003;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;20 a 29 anos;307.0;0.2;0.0;3.25;0.5225;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;30 a 39 anos;288.0;0.2;0.0;3.6999999999999997;1.095;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;40 a 49 anos;588.0;0.1;0.0;4.575;2.525;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;5 a 9 anos;118.0;0.4;0.0;3.125;0.4675;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;50 a 59 anos;1160.0;0.1;0.0;5.175;4.245;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;60 a 69 anos;1616.0;0.1;0.06;5.425;6.38;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;70 a 79 anos;1219.0;0.1;0.0;5.95;9.8575;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;80 anos e mais;373.0;0.1;0.0;6.5;15.62;FUNDACAO ALTINO VENTURA;0.0
+Doenças do olho e anexos;Menor 1 ano;22.0;1.3;0.0;5.4;1.7675;FUNDACAO ALTINO VENTURA;0.0
+Doenças do ouvido e da apófise mastóide;1 a 4 anos;305.0;4.8;0.0;4.05;0.4775;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;10 a 14 anos;73.0;3.3;0.0;3.275;0.47;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;15 a 19 anos;36.0;2.4;0.0;3.05;0.47250000000000003;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;20 a 29 anos;79.0;2.2;0.0;3.25;0.5225;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;30 a 39 anos;100.0;2.3;0.0;3.6999999999999997;1.095;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;40 a 49 anos;97.0;2.3;0.0;4.575;2.525;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;5 a 9 anos;138.0;4.5;0.0;3.125;0.4675;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;50 a 59 anos;86.0;2.8;0.0;5.175;4.245;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;60 a 69 anos;70.0;5.1;0.0;5.425;6.38;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;70 a 79 anos;21.0;3.8;0.0;5.95;9.8575;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;80 anos e mais;10.0;3.8;0.0;6.5;15.62;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do ouvido e da apófise mastóide;Menor 1 ano;128.0;4.7;0.0;5.4;1.7675;HOSPITAL AGAMENON MAGALHAES;0.0
+Doenças do sistema nervoso;1 a 4 anos;785.0;7.6;0.64;4.05;0.4775;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;10 a 14 anos;518.0;7.6;0.58;3.275;0.47;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;15 a 19 anos;508.0;6.5;1.57;3.05;0.47250000000000003;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;20 a 29 anos;1255.0;5.6;1.51;3.25;0.5225;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;30 a 39 anos;1541.0;6.4;2.6;3.6999999999999997;1.095;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;40 a 49 anos;2141.0;6.0;3.13;4.575;2.525;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;5 a 9 anos;524.0;5.9;0.76;3.125;0.4675;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;50 a 59 anos;2694.0;7.4;3.97;5.175;4.245;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;60 a 69 anos;2216.0;7.9;5.23;5.425;6.38;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;70 a 79 anos;1735.0;9.5;8.53;5.95;9.8575;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;80 anos e mais;1278.0;10.9;12.13;6.5;15.62;HOSPITAL DA RESTAURACAO;4.36
+Doenças do sistema nervoso;Menor 1 ano;517.0;9.4;1.74;5.4;1.7675;HOSPITAL DA RESTAURACAO;4.36
+Doenças endócrinas nutricionais e metabólicas;1 a 4 anos;352.0;5.1;0.85;4.05;0.4775;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;10 a 14 anos;884.0;2.2;0.0;3.275;0.47;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;15 a 19 anos;601.0;3.2;0.33;3.05;0.47250000000000003;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;20 a 29 anos;944.0;3.4;0.74;3.25;0.5225;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;30 a 39 anos;1096.0;4.3;1.92;3.6999999999999997;1.095;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;40 a 49 anos;1335.0;4.8;1.8;4.575;2.525;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;5 a 9 anos;594.0;1.9;0.0;3.125;0.4675;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;50 a 59 anos;1714.0;5.3;3.09;5.175;4.245;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;60 a 69 anos;1800.0;5.7;3.83;5.425;6.38;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;70 a 79 anos;1595.0;6.3;6.65;5.95;9.8575;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;80 anos e mais;1192.0;6.1;9.98;6.5;15.62;IMIP;0.39
+Doenças endócrinas nutricionais e metabólicas;Menor 1 ano;217.0;12.1;1.84;5.4;1.7675;IMIP;0.39
+Doenças sangue órgãos hemat e transt imunitár;1 a 4 anos;303.0;5.4;0.0;4.05;0.4775;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;10 a 14 anos;350.0;4.5;0.29;3.275;0.47;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;15 a 19 anos;445.0;4.2;0.67;3.05;0.47250000000000003;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;20 a 29 anos;1003.0;3.9;0.9;3.25;0.5225;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;30 a 39 anos;1015.0;4.8;1.87;3.6999999999999997;1.095;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;40 a 49 anos;1220.0;4.5;1.39;4.575;2.525;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;5 a 9 anos;358.0;4.0;0.84;3.125;0.4675;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;50 a 59 anos;846.0;6.5;2.96;5.175;4.245;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;60 a 69 anos;796.0;6.4;4.02;5.425;6.38;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;70 a 79 anos;686.0;6.9;5.98;5.95;9.8575;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;80 anos e mais;556.0;6.2;10.61;6.5;15.62;FUNDACAO HEMOPE;1.23
+Doenças sangue órgãos hemat e transt imunitár;Menor 1 ano;183.0;9.5;1.09;5.4;1.7675;FUNDACAO HEMOPE;1.23
+Doenças sist osteomuscular e tec conjuntivo;1 a 4 anos;208.0;3.7;0.48;4.05;0.4775;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;10 a 14 anos;736.0;3.4;0.0;3.275;0.47;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;15 a 19 anos;931.0;2.7;0.0;3.05;0.47250000000000003;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;20 a 29 anos;1684.0;4.1;0.0;3.25;0.5225;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;30 a 39 anos;2049.0;4.2;0.1;3.6999999999999997;1.095;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;40 a 49 anos;2763.0;3.8;0.14;4.575;2.525;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;5 a 9 anos;560.0;3.2;0.0;3.125;0.4675;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;50 a 59 anos;3114.0;3.6;0.42;5.175;4.245;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;60 a 69 anos;2440.0;4.0;0.66;5.425;6.38;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;70 a 79 anos;1246.0;6.0;2.09;5.95;9.8575;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;80 anos e mais;391.0;7.1;4.6;6.5;15.62;HOSPITAL DAS CLINICAS;0.06
+Doenças sist osteomuscular e tec conjuntivo;Menor 1 ano;18.0;7.3;0.0;5.4;1.7675;HOSPITAL DAS CLINICAS;0.06
+Gravidez parto e puerpério;1 a 4 anos;6.0;8.3;0.0;4.05;0.4775;IMIP;0.05
+Gravidez parto e puerpério;10 a 14 anos;781.0;2.6;0.0;3.275;0.47;IMIP;0.05
+Gravidez parto e puerpério;15 a 19 anos;15935.0;2.6;0.02;3.05;0.47250000000000003;IMIP;0.05
+Gravidez parto e puerpério;20 a 29 anos;55601.0;2.6;0.01;3.25;0.5225;IMIP;0.05
+Gravidez parto e puerpério;30 a 39 anos;28420.0;2.9;0.04;3.6999999999999997;1.095;IMIP;0.05
+Gravidez parto e puerpério;40 a 49 anos;3778.0;2.9;0.08;4.575;2.525;IMIP;0.05
+Gravidez parto e puerpério;50 a 59 anos;35.0;1.9;0.0;5.175;4.245;IMIP;0.05
+Gravidez parto e puerpério;60 a 69 anos;7.0;2.0;0.0;5.425;6.38;IMIP;0.05
+Gravidez parto e puerpério;70 a 79 anos;4.0;10.3;0.0;5.95;9.8575;IMIP;0.05
+Gravidez parto e puerpério;80 anos e mais;3.0;8.3;33.33;6.5;15.62;IMIP;0.05
+Gravidez parto e puerpério;Menor 1 ano;21.0;5.8;4.76;5.4;1.7675;IMIP;0.05
+Lesões enven e alg out conseq causas externas;1 a 4 anos;1966.0;2.9;0.71;4.05;0.4775;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;10 a 14 anos;3241.0;3.3;0.25;3.275;0.47;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;15 a 19 anos;4923.0;4.0;1.16;3.05;0.47250000000000003;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;20 a 29 anos;15639.0;4.6;1.55;3.25;0.5225;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;30 a 39 anos;14488.0;4.9;1.62;3.6999999999999997;1.095;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;40 a 49 anos;13226.0;5.3;1.77;4.575;2.525;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;5 a 9 anos;2629.0;2.8;0.38;3.125;0.4675;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;50 a 59 anos;10776.0;6.2;1.88;5.175;4.245;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;60 a 69 anos;8439.0;6.1;2.94;5.425;6.38;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;70 a 79 anos;6420.0;6.3;3.75;5.95;9.8575;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;80 anos e mais;4442.0;6.8;5.88;6.5;15.62;HOSPITAL DA RESTAURACAO;6.94
+Lesões enven e alg out conseq causas externas;Menor 1 ano;353.0;3.5;1.13;5.4;1.7675;HOSPITAL DA RESTAURACAO;6.94
+Malf cong deformid e anomalias cromossômicas;1 a 4 anos;1226.0;3.9;0.82;4.05;0.4775;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;10 a 14 anos;460.0;2.9;0.22;3.275;0.47;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;15 a 19 anos;212.0;3.4;0.0;3.05;0.47250000000000003;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;20 a 29 anos;292.0;3.3;0.0;3.25;0.5225;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;30 a 39 anos;249.0;3.6;0.4;3.6999999999999997;1.095;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;40 a 49 anos;177.0;4.6;0.56;4.575;2.525;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;5 a 9 anos;758.0;2.7;0.26;3.125;0.4675;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;50 a 59 anos;174.0;3.7;1.72;5.175;4.245;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;60 a 69 anos;110.0;3.5;1.82;5.425;6.38;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;70 a 79 anos;56.0;3.8;1.79;5.95;9.8575;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;80 anos e mais;17.0;7.3;0.0;6.5;15.62;IMIP;3.74
+Malf cong deformid e anomalias cromossômicas;Menor 1 ano;1902.0;7.8;6.26;5.4;1.7675;IMIP;3.74
+Neoplasias (tumores);1 a 4 anos;1142.0;4.6;1.31;4.05;0.4775;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);10 a 14 anos;1219.0;4.2;0.98;3.275;0.47;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);15 a 19 anos;1596.0;4.1;1.5;3.05;0.47250000000000003;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);20 a 29 anos;2317.0;4.1;2.37;3.25;0.5225;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);30 a 39 anos;5159.0;3.9;2.83;3.6999999999999997;1.095;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);40 a 49 anos;10691.0;3.8;3.4;4.575;2.525;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);5 a 9 anos;1259.0;4.4;0.87;3.125;0.4675;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);50 a 59 anos;10816.0;4.4;5.94;5.175;4.245;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);60 a 69 anos;12283.0;4.7;7.58;5.425;6.38;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);70 a 79 anos;8694.0;4.5;9.17;5.95;9.8575;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);80 anos e mais;3404.0;4.1;11.9;6.5;15.62;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Neoplasias (tumores);Menor 1 ano;157.0;5.1;3.18;5.4;1.7675;HOSPITAL DE CANCER DE PERNAMBUCO;8.87
+Sint sinais e achad anorm ex clín e laborat;1 a 4 anos;581.0;2.3;0.52;4.05;0.4775;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;10 a 14 anos;453.0;2.8;0.88;3.275;0.47;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;15 a 19 anos;698.0;3.1;1.29;3.05;0.47250000000000003;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;20 a 29 anos;1803.0;3.5;1.44;3.25;0.5225;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;30 a 39 anos;1860.0;3.8;2.47;3.6999999999999997;1.095;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;40 a 49 anos;2456.0;4.4;4.36;4.575;2.525;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;5 a 9 anos;516.0;2.3;0.58;3.125;0.4675;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;50 a 59 anos;2949.0;4.9;6.04;5.175;4.245;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;60 a 69 anos;2915.0;5.6;8.95;5.425;6.38;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;70 a 79 anos;2473.0;5.8;13.87;5.95;9.8575;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;80 anos e mais;1892.0;5.7;18.13;6.5;15.62;HOSPITAL OTAVIO DE FREITAS;6.99
+Sint sinais e achad anorm ex clín e laborat;Menor 1 ano;781.0;2.2;1.66;5.4;1.7675;HOSPITAL OTAVIO DE FREITAS;6.99
+Transtornos mentais e comportamentais;1 a 4 anos;14.0;3.3;0.0;4.05;0.4775;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;10 a 14 anos;179.0;5.7;0.0;3.275;0.47;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;15 a 19 anos;638.0;7.8;0.0;3.05;0.47250000000000003;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;20 a 29 anos;2137.0;13.0;0.28;3.25;0.5225;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;30 a 39 anos;2361.0;13.3;0.21;3.6999999999999997;1.095;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;40 a 49 anos;2108.0;16.0;0.28;4.575;2.525;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;5 a 9 anos;31.0;0.8;0.0;3.125;0.4675;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;50 a 59 anos;1414.0;15.7;0.42;5.175;4.245;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;60 a 69 anos;788.0;12.8;1.02;5.425;6.38;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;70 a 79 anos;202.0;12.8;2.48;5.95;9.8575;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;80 anos e mais;107.0;11.2;14.02;6.5;15.62;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
+Transtornos mentais e comportamentais;Menor 1 ano;1.0;5.0;0.0;5.4;1.7675;HOSPITAL PSIQUIATRICO ULYSSES PERNAMBUCANO;0.22
