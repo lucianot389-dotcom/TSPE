@@ -4,7 +4,7 @@ import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 import pernambuco from "@/imports/imagem_2026-05-22_200352072-1.png";
 
 // ── URL da API Python — troque se o servidor estiver em outro endereço ──
-const API_URL = "http://localhost:5000";
+const API_URL = "https://tspe-production.up.railway.app";
 
 const dadosCsv = [
   {
